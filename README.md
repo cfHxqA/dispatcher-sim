@@ -58,7 +58,8 @@ Get early access, share ideas, meet your future crew, and help shape the game.
 
 ## 📸 Screenshots & Media
 
-*(Screenshots will be added here as soon as the first public build is ready – stay tuned!)*
+![Landing-Page](https://i.imgur.com/D5RPLYp.png)
+![Ingame](https://i.imgur.com/sRQxTxy.jpeg)
 
 ---
 
