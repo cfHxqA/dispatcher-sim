@@ -4,8 +4,6 @@
 
 Sirens are wailing. An emergency call comes in. You are in the control center – and you make the decisions. Coordinate units in real-time on a living map, build your precinct, acquire vehicles, and master dynamic incidents – alone or with a real crew.
 
-**Web-based • Multiplayer • Free to play**
-
 ---
 
 ## 🎮 What is Dispatcher Sim?
