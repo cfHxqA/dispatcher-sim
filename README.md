@@ -66,7 +66,7 @@ Get early access, share ideas, meet your future crew, and help shape the game.
 
 ## 📢 Stay Updated
 
-- **Discord** → https://discord.gg/YOUR-DISCORD-INVITE-LINK-HERE  
+- **Discord** → https://discord.gg/cTapBnzzPn  
 - Star this repo to show support ❤️  
 - Follow development updates directly in the Discord
 
